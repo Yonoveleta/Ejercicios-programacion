@@ -60,7 +60,7 @@ public class DevolverCambio {
 			}
 			
 			if(cantidad > 0) {
-				System.out.printf("%d monedas(s) de %.2f€\n", cantidad, MONEDAS[i]);
+				System.out.printf("%d moneda(s) de %.2f€\n", cantidad, MONEDAS[i]);
 			}	
 		}
 		
